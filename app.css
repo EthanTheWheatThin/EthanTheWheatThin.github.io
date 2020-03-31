@@ -1,13 +1,13 @@
 h1{
     text-align: center;
     color: rgb(229,230,228);
-    font-family: Titillium Web;
+   font-family: 'Titillium Web', sans-serif;
     font-size: 40px;
     margin: 0px;
 }
 h2{	
    color: rgb(229,230,228);
-   font-family: Titillium Web;
+  font-family: 'Titillium Web', sans-serif;
    font-size: 35px;
 }
 body{
@@ -19,7 +19,7 @@ body{
 }
 p{
     color: rgb(74,37,69);
-    font-family:Titillium Web;
+   font-family: 'Titillium Web', sans-serif;
     padding-top: 5px;
 }
 th{
@@ -38,13 +38,13 @@ a{
 }
 ul{
     padding: 10px;
-    font-family:  Titillium Web;
+  font-family: 'Titillium Web', sans-serif;
 }
 .hlinks{
 	display: inline;
 	padding: 5px 5px 5px 5px;
 	color: rgb(130,76,113);
-	font-family: Titillium Web;
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 35px;
 }
 .atm-links {
@@ -66,7 +66,7 @@ img{
 }
 li{
     	color: rgb(130,76,113);
-   	font-family: Titillium Web;
+   	font-family: 'Titillium Web', sans-serif;
 }
 .header-links {
 	padding: 10px 10px 10px 10px;
@@ -87,7 +87,7 @@ tr{
       margin: 0 auto;
 }
 table, tr {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Titillium Web', sans-serif;
 	color: black;
 	border: 1px solid rgb(130,76,113);
 }
