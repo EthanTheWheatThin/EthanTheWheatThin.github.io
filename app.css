@@ -34,7 +34,7 @@ td, tr {
     color: rgb(0,0,0);
 }
 a{
-    color: rgb(130,76,113);
+    color: rgb(0,0,0);
 }
 ul{
     padding: 10px;
@@ -48,7 +48,7 @@ ul{
 	font-size: 35px;
 }
 .atm-links {
-    color: rgb(229,230,228);
+    color: rgb(68,69,69);
 }
 header{
     text-align:center;
